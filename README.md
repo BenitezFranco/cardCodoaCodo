@@ -1,1 +1,1 @@
-Este es un trabajo para el curso en react de codo a codo.
+Este es una card para el curso en react de codo a codo.
